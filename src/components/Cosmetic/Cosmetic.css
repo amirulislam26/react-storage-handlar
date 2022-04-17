@@ -1,0 +1,22 @@
+.product {
+    background-color: antiquewhite;
+    border: 3px solid slateblue;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 15px;
+}
+
+.button {
+    background-color: darkgoldenrod;
+    border: 2px solid mediumorchid;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.remove-btn {
+    background-color: coral;
+    border: 2px solid mediumorchid;
+    padding: 5px;
+    border-radius: 5px;
+    margin-left: 5px;
+}
